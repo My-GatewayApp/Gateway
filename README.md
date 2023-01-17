@@ -3,7 +3,7 @@
 ##    Brief Description
 Gateway is a gamified education platform to learn about crypto with story adventures while earning rewards in crypto and NFTs badges.
 
-#### Note : You have to be signed in to the platform to access the listed features.
+#### Note : You have to be signed in to the platform to access the listed features. Follow the testing instructions in this document https://docs.google.com/document/d/1Rb6MS5x_JzQ7fn7Tsxy_sRD3xj3cDUyEenlR5NdUV74/edit?usp=sharing
 
 
 ##   Table Of Milestone 1
