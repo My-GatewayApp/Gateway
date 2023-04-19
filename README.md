@@ -37,7 +37,10 @@ Gateway is a gamified product discovery and learning platform to learn, earn and
 - Users can purchase Custom NFT badges of communities or creators with points
 - Users can purchase higher ranking NFT badges with points
 </td>
-<td><a href="https://marketplace.gatewayapp.co/" target="_blank"> NFT Marketplace</a></td>
+<td><a href="https://marketplace.gatewayapp.co/" target="_blank"> NFT Marketplace</a>
+<br/>
+<br/>
+<a href="https://nearblocks.io/nft-token/d6703c9355c03e20879de0eb7d92ca079496d9643ac4377b5224184697962b74/" target="_blank"> NFT Inventory Onchain</a></td>
 </tr>
 <tr>
 <td> >3000 rewards claimed on the NEAR blockchain with a worth of up to $5000</td>
