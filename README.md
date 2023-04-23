@@ -16,7 +16,7 @@ Gateway is a gamified product discovery and learning platform to learn, earn and
 <tr>
 <td>30,000 users on Gateway app</td>
 <td>The number of users acquired on gateway.</td>
-<td><a href="https://drive.google.com/file/d/1teWkc42Tes7B2-JbvT7s8OG2NpMSNhf1/view?usp=sharing" target="_blank"> Proof </a></td>
+<td><a href="https://drive.google.com/file/d/13cSU6wzFTTWLd7NRl2bNYTwK8op9cWrF/view?usp=sharing" target="_blank"> Proof </a></td>
 </tr>
 <tr>
 <td>>2000 daily active users on Gateway app</td>
